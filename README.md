@@ -31,6 +31,7 @@
 - [AutoIT](https://www.autoitscript.com/site/): 用类Basic脚本编写Windows桌面GUI自动化的工具。
 - [Appium](http://appium.io/): 支持android和ios的移动端自动化测试工具
 - [Macaca](https://macacajs.github.io/zh/): 面向多端的自动化测试工具，由阿里巴巴开源。
+- [agent-qa](https://vostride.com): 支持 Web、Android 和 iOS 的 AI 自动化测试工具，用自然语言编写测试，结合持久记忆与经过验证的经验实现自我改进；提供 CLI、MCP 和 Skills（[AndroidWorld 基准](https://vostride.com/benchmark/android-world)）。
 
 ### 性能测试
 - [Apache Bench](http://httpd.apache.org/docs/2.4/programs/ab.html): HTTP性能测试工具
